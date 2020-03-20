@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml:2:5-42
+		INJECTED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml:4:5-14:19
+provider#io.github.itzmeanjan.intent.MyProvider
+ADDED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml:5:9-13:20
+	android:grantUriPermissions
+		ADDED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml:9:13-47
+	android:authorities
+		ADDED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml:7:13-75
+	android:exported
+		ADDED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml:8:13-37
+	android:name
+		ADDED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml:6:13-39
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml:10:13-12:54
+	android:resource
+		ADDED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml:12:17-51
+	android:name
+		ADDED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml:11:17-67
+uses-sdk
+INJECTED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml
+INJECTED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml
+		ADDED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/aswin/development/flutter/.pub-cache/hosted/pub.dartlang.org/intent-1.1.0/android/src/main/AndroidManifest.xml
